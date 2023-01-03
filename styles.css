@@ -1,0 +1,78 @@
+.card{
+    border: 3px solid rgb(45, 23, 124);
+    border-radius: 3pc;
+    padding: 25px;
+    width: 15pc;
+    height: 15pc;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-top: 18pc;
+    color: rgb(255, 255, 255);
+    font-family: Calibri;
+    font-weight: lighter;
+}
+
+#heading{
+    font-family: Cambria;
+    font-weight: bold;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: fit-content;
+}
+
+body{
+    background-image: url('wallpaperflare.com_wallpaper.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;    
+}
+
+h4{
+    color: rgb(29, 167, 144);
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: fit-content;
+}
+
+.buttons{
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    width: min-content;
+}
+
+.dis{
+    margin-left: 1.5pc;
+    margin-top: 2pc;
+    transition: transform 300ms ease-out;
+    color: #7289d9;
+
+}
+
+.dis:hover{
+    transform: translateY(-10px);
+}
+
+.yt{
+    margin-left: 1.5pc;
+    margin-top: 2pc; 
+    transition: transform 300ms ease-out;
+    color: #FF0000;
+}
+
+.yt:hover{
+    transform: translateY(-10px);
+}
+
+.red{
+    margin-left: 1.5pc;
+    margin-top: 2pc;
+    transition: transform 300ms ease-out;
+    color: #FF4500;
+}
+
+.red:hover{
+    transform: translateY(-10px);
+}
