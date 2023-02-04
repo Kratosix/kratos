@@ -1,1 +1,2 @@
 # A simple site of my about me :)
+<div class="tenor-gif-embed" data-postid="26106201" data-share-method="host" data-aspect-ratio="2.40601" data-width="100%"><a href="https://tenor.com/view/soldier-boy-smoke-billy-butcher-hughie-the-boys-gif-26106201">Soldier Boy Smoke GIF</a>from <a href="https://tenor.com/search/soldier+boy-gifs">Soldier Boy GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
