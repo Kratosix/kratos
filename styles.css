@@ -4,6 +4,7 @@ body{
     background-image: url("bit.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
+    background-attachment: fixed;
 }
 
 .main{
